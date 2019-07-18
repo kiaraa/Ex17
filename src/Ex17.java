@@ -40,9 +40,7 @@ public class Ex17 {
 		}
 		else {
 			System.out.printf("%10s", string);
-		}
-		//System.out.println("row #" + num + " | length of asterisk bit: " + string.length());
-		
+		}		
 		
 	}
 	
@@ -56,11 +54,5 @@ public class Ex17 {
 		System.out.println(string);
 	}
 	
-	public static void printFormattedLine(int num) {
-		//String leftSide = leftString(num);
-		//String rightSide = rightString(num);
-		
-		//System.out.printf("%-5s",leftSide);
-		//System.out.printf("%-5s", rightSide + "\n");
-	}
+	
 }
